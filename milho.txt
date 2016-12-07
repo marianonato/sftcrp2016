@@ -1,3 +1,5 @@
-milho e uma cultura
+milho é uma cultura :
 
-de verão que pode ser plantada após a soja -> Milho safrainha
+de verão que pode ser plantada após a soja -> Milho safrainha;
+
+posso planta milho convencional ou de pipoca;
